@@ -9,9 +9,9 @@ deployment process.
 
 # Tools used
 
-***Docker*** - For containerizing the application 
-***Swarm*** - To deploy the containerized application on the cluster of servers
-***Kubernetes*** - A alternative to Docker swarm
+***Docker*** - For containerizing the application \
+***Swarm*** - To deploy the containerized application on the cluster of servers \
+***Kubernetes*** - A alternative to Docker swarm \
 
 # Objectives
 
